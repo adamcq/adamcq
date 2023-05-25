@@ -35,10 +35,6 @@ Check out my LinkedIn profile:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,react,postgres,git,kotlin&perline=8)](https://skillicons.dev)
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcq&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 Here are some ideas to get you started:
