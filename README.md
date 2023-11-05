@@ -19,7 +19,8 @@ Check out my LinkedIn profile:
 
 👨‍💻 Some projects I have worked on:
 
-- [ChipKit PacMan](https://github.com/adamcq/TetrisUno32)
+- [ChipKit Tetris](https://github.com/adamcq/TetrisUno32)
+- [Friendolo Web App](https://github.com/adamcq/Friendolo)
 
 ---
 
