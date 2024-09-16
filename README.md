@@ -11,7 +11,7 @@ Check out my LinkedIn profile:
 </div>
 
 
- 📫 Or reach me at **borgula@kth.se**
+ 📫 Or reach me at **adam.borgula@epfl.ch**
 
 
 ---
