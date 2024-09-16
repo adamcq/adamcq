@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Adam</h1>
 
-<h3 align="center">I'm a second year bachelor's student stuyding Information and Communication Technology at KTH Royal Institute of Technology.</h3>
+<h3 align="center">I'm a first year master's student stuyding Computer Science at EPFL in Lausanne, Switzerland.</h3>
 
 Check out my LinkedIn profile:
 <div id="badges">
