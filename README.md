@@ -20,8 +20,8 @@ Check out my LinkedIn profile:
 ⚡Currently working on:
 - Real-time Sign Language Recognition System in [GESTURE](https://epflaiteam.ch/projects/gesture):
 - Research Projects in the [Distributed Computing Lab](https://dcl.epfl.ch/site/)
-    - Concurrent Datastructures using RDMA
-    - Distributed Inference Engine
+    1. Concurrent Datastructures using RDMA
+    2. Distributed Inference Engine
 - Android Development
 
 ---
