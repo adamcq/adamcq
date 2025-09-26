@@ -15,7 +15,7 @@ Check out my LinkedIn profile:
 
 ---
 👯 **Looking for**:
-- master's thesis in the industry. Interested in projects at the intersection of Data Science and Systems Engineering.
+- master's thesis in the industry - interested in projects at the intersection of Data Science and Systems Engineering.
 
 ---
 
