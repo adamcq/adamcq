@@ -14,7 +14,7 @@ Check out my LinkedIn profile:
  📫 Or reach me at **adam.borgula@epfl.ch**
 
 ---
-🔍: **Currently looking for**:
+🔍 **Currently looking for**:
 - Master's Thesis in the industry - intersection of Data Science and Systems Engineering.
 
 ---
