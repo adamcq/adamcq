@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a first year master's student in Computer Science, specializing in Data Analysis at EPFL in Lausanne, Switzerland.</h3>
 
-👯 I am looking for a master's thesis in the industry. I would be eager to collaborate on the implementation of any Database Management System / Query Optimizer or other projects at the intersection of Data Science and Systems Engineering.
+👯 Currently looking for a master's thesis in the industry. Interested in projects at the intersection of Data Science and Systems Engineering.
 
 Check out my LinkedIn profile:
 <div id="badges">
@@ -17,24 +17,25 @@ Check out my LinkedIn profile:
 
 ---
 
-⚡Currently working on:
+⚡**Currently working on**:
 - Real-time Sign Language Recognition System in [GESTURE](https://epflaiteam.ch/projects/gesture):
 - Research Projects in the [Distributed Computing Lab](https://dcl.epfl.ch/site/)
-    1. Concurrent Datastructures using RDMA
+    1. Concurrent Data Structures using RDMA
     2. Distributed Inference Engine
 - Android Development
 
 ---
 
 
-👨‍💻 Some projects I have worked on:
+👨‍💻 **Some projects I have worked on**:
 
 - [ChipKit Tetris](https://github.com/adamcq/TetrisUno32)
 - [Friendolo Web App](https://github.com/adamcq/Friendolo)
 
 ---
 
-:books: Master's Courses I have taken:
+:books: **Master's Courses I have taken**:
+
 Systems and Computer Science:
 - Systems for Data Management and Data Science
 - Advanced Compiler Construction
@@ -53,7 +54,7 @@ Machine Learning & Data Analysis:
 
 ---
   
-:hammer_and_wrench: Programming Languages and Tools:
+:hammer_and_wrench: **Programming Languages and Tools**:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,react,postgres,git,kotlin&perline=8)](https://skillicons.dev)
 
