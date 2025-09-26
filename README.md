@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Adam</h1>
 
-<h3 align="center">I'm a first year master's student stuyding Computer Science at EPFL in Lausanne, Switzerland.</h3>
+<h3 align="center">I'm a first year master's student in Computer Science, specializing in Data Analysis at EPFL in Lausanne, Switzerland.</h3>
+
+👯 I am looking for a master's thesis in the industry. I would be eager to collaborate on the implementation of any Database Management System / Query Optimizer or other projects at the intersection of Data Science and Systems Engineering.
 
 Check out my LinkedIn profile:
 <div id="badges">
@@ -13,6 +15,14 @@ Check out my LinkedIn profile:
 
  📫 Or reach me at **adam.borgula@epfl.ch**
 
+---
+
+⚡Currently working on:
+- Real-time Sign Language Recognition System in [GESTURE](https://epflaiteam.ch/projects/gesture):
+- Research Projects in the [Distributed Computing Lab](https://dcl.epfl.ch/site/)
+    - Concurrent Datastructures using RDMA
+    - Distributed Inference Engine
+- Android Development
 
 ---
 
@@ -24,10 +34,21 @@ Check out my LinkedIn profile:
 
 ---
 
-:books: Courses I have taken:
+:books: Master's Courses I have taken:
+Systems and Computer Science:
+- Systems for Data Management and Data Science
+- Advanced Compiler Construction
+- Distributed Algorithms
+- Software Security
 
+Machine Learning & Data Analysis:
+- Machine Learning
+- Network Machine Learning
+- Advanced Data Analysis
+- Sublinear Algorithms for Big Data
+
+👨‍🏫 Teaching Assistant Experience:
 - [ ID 1019 Programming 2 ](https://github.com/adamcq/programming2)
-- [ ID 2216 Developing Mobile Applications ](https://github.com/adamcq/ID2216_native)
 - [ IV 1351 Data Storage Paradigms ](https://github.com/adamcq/MusicDB)
 
 ---
