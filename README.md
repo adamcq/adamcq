@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Adam</h1>
 
-<h3 align="center">I'm a first year master's student in Computer Science, specializing in Data Analysis at EPFL in Lausanne, Switzerland.</h3>
-
-👯 Currently looking for a master's thesis in the industry. Interested in projects at the intersection of Data Science and Systems Engineering.
+<h3 align="center">Second year master's student in Computer Science, specializing in Data Analysis at EPFL, Lausanne, Switzerland.</h3>
 
 Check out my LinkedIn profile:
 <div id="badges">
@@ -16,12 +14,16 @@ Check out my LinkedIn profile:
  📫 Or reach me at **adam.borgula@epfl.ch**
 
 ---
+👯 **Looking for**:
+- master's thesis in the industry. Interested in projects at the intersection of Data Science and Systems Engineering.
+
+---
 
 ⚡**Currently working on**:
 - Real-time Sign Language Recognition System in [GESTURE](https://epflaiteam.ch/projects/gesture):
 - Research Projects in the [Distributed Computing Lab](https://dcl.epfl.ch/site/)
     1. Concurrent Data Structures using RDMA
-    2. Distributed Inference Engine
+    2. Distributed Architecture-Agnostic Inference Engine
 - Android Development
 
 ---
